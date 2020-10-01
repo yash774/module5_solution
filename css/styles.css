@@ -1,8 +1,8 @@
 body {
   font-size: 16px;
   color: #fff;
-  background-color: #61122f;
-  font-family: 'Oxygen', sans-serif;
+  background-color: #ffffcc;
+  font-family: 'Oswald', sans-serif;
 }
 
 /** HEADER **/
@@ -14,8 +14,8 @@ body {
 
 #logo-img {
   background: url('../images/restaurant-logo_large.png') no-repeat;
-  width: 150px;
-  height: 150px;
+  width: 130px;
+  height: 130px;
   margin: 10px 15px 10px 0;
 }
 
@@ -54,7 +54,7 @@ body {
   text-align: center;
 }
 #nav-list a:hover {
-  background: #E7E7E7;
+  background: #ffffcc;
 }
 #nav-list a span {
   font-size: 1.8em;
@@ -62,6 +62,7 @@ body {
 
 #phone {
   margin-top: 5px;
+  padding-left : 10px;
 }
 #phone a { /* Phone number */
   text-align: right;
@@ -252,7 +253,7 @@ h3.menu-item-title {
   /* Home Page */
   .container .jumbotron {
     background: url('../images/jumbotron_992.jpg') no-repeat;
-    height: 558px;
+    height: 560px;
   }
   /* End Home Page */
 }
